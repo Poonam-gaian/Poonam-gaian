@@ -8,7 +8,7 @@
 Poonam-gaian/Poonam-gaian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![logo](https://github.com/Poonam1216/Poonam1216/blob/main/full%20stack%20developer.png)
+![logo](https://github.com/Poonam-gaian/Poonam-gaian/blob/main/full%20stack%20developer.png)
 <h1 align="center">Hi 👋, I'm Poonam Rani</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 
@@ -29,10 +29,10 @@ You can click the Preview link to take a look at your changes.
 
 
 <img align ="right" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif" alt="coding" width="400">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=poonam1216&show_icons=true&locale=en&layout=compact" alt="poonam1216" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Poonam-gaian&show_icons=true&locale=en&layout=compact" alt="Poonam-gaian" /></p>
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=poonam1216&show_icons=true&locale=en" alt="poonam1216" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Poonam-gaian&show_icons=true&locale=en" alt="Poonam-gaian" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=poonam1216&" alt="poonam1216" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Poonam-gaian&" alt="Poonam-gaian" /></p>
